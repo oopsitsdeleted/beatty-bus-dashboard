@@ -35,6 +35,8 @@ If you are accessing it locally:
 If you are accessing it from another device that is on the same network as your server
 
     http://192.168.0.XX:5000
+
+I recommended to scale up the site to make read by using Ctrl +
 ## Tips
 If you are running the server on a Linux machine, you can make it into a systemctl service. This ensures that the server is always running even after a reboot
 
