@@ -1,8 +1,16 @@
+
 # Beatty bus dashboard
 
 ![image of the dashboard](https://raw.githubusercontent.com/oopsitsdeleted/beatty-bus-dashboard/refs/heads/assets/Screenshot%202026-01-19%20113104.png)
 ## Demo
 A demo is available at https://beattybus.lawnserver.com/
+
+## Features
+
+ - Using data from LTA directly, this website shows accurate, reliable and up-to-date bus arrival timings. This allows students to better plan their commute home
+ - Bus service and stop crowd levels allows students to avoid the crowd easier
+ - This setup allows for a set it and forget it setup; no more human intervention is required after configuring this app, as the website dynamically updates every 20s. So no need for manual refreshing
+ - it looks very cool i saw a similar display at nus high
 
 ## Prerequisites
 
