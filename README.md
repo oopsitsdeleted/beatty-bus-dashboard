@@ -23,7 +23,7 @@ Edit the server.js file with any text editor, find the account key const and rep
 
 Install the required modules 
 
-    node install express cors
+    npm install express cors
 Execute server.js
 
     node server.js
