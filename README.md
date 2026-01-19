@@ -36,7 +36,7 @@ If you are accessing it from another device that is on the same network as your 
 
     http://192.168.0.XX:5000
 
-I recommended scaling up the site to make read by using Ctrl +
+I recommended scaling up the site to get better readability by using Ctrl +
 ## Tips
 If you are running the server on a Linux machine, you can make it into a systemctl service. This ensures that the server is always running even after a reboot
 
