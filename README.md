@@ -51,7 +51,6 @@ use this template in said file (edit according to your own setup)
     User= your user # edit this
     Group= your group # this one also
     
-    # The directory where your app lives
     WorkingDirectory=/dir/to/bus/dashboard # edit this
     
     ExecStart=/usr/bin/node /dir/to/busdashboard/to/server.js # also this one
