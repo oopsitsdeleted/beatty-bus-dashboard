@@ -25,7 +25,7 @@ Clone the repo into your system
 cd into the directory
 
     cd beatty-bus-dashboard
-Edit the server.js file with any text editor, find the account key const and replace 'YOUR API KEY HERE' with your api key
+Edit the server.js file with any text editor, find the account key const and replace *YOUR API KEY HERE* with your api key
 
     const  ACCOUNT_KEY  =  'YOUR API KEY HERE';
 
